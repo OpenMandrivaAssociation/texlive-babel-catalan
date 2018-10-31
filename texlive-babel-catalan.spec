@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-catalan
 Version:	2.2p
-Release:	1
+Release:	2
 Summary:	TeXLive babel-catalan package
 Group:		Publishing
 URL:		http://tug.org/texlive
