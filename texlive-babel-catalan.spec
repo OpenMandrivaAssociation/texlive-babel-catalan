@@ -5,9 +5,9 @@ Summary:	TeXLive babel-catalan package
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-catalan.r30259.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-catalan.doc.r30259.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-catalan.source.r30259.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-catalan.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-catalan.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-catalan.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
