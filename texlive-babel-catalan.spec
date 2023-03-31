@@ -1,6 +1,6 @@
 Name:		texlive-babel-catalan
 Version:	30259
-Release:	1
+Release:	2
 Summary:	TeXLive babel-catalan package
 Group:		Publishing
 URL:		http://tug.org/texlive
